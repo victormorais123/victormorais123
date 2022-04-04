@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor André Gopinger de Morais</h1>
-<h3 align="center">I'm currently working at Criativando Wallpapers with back-end on PHP and Laravel, also using PostgreSQL and PDO connections</h3>
+<h3 align="center">I'm currently learning back-end on PHP and Laravel, also using PostgreSQL and PDO connections</h3>
 
 - ⚡ Fun fact **i like MTB and cycling**
 
